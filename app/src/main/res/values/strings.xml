@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rahulparmar_COMP304_001_Test01</string>
+    <string name="title_activity_rahul">RahulActivity</string>
+    <string name="title_activity_parmar">ParmarActivity</string>
+</resources>
